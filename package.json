@@ -1,0 +1,13 @@
+{
+  "name": "profile2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio2.js",
+  "scripts": {
+    "start": "node portfolio2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
